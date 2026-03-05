@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2026/1/16 12:44 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2026/3/5 12:21 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `103 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
+There are `113 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `103 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Emirates </td>
 		<td><a href="https://twitter.com/abxhraslam">abxhraslam</a></td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>407</td>
+		<td>405</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `103 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Birla Institute Of Technology<br/>And<br/>Science,<br/>Pilani<br/>Dubai<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates </td>
-		<td>42</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -193,7 +193,7 @@ There are `103 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -243,7 +243,7 @@ There are `103 users`  in United Arab Emirates. You need at least `0 followers` 
 			Mubaraque Hussain
 		</td>
 		<td>@emirates </td>
-		<td><a href="https://twitter.com/IamMHussain">IamMHussain</a></td>
+		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>4</td>
 	</tr>
@@ -328,6 +328,19 @@ There are `103 users`  in United Arab Emirates. You need at least `0 followers` 
 	<tr>
 		<td>18</td>
 		<td>
+			<a href="https://github.com/codexderelict">
+				<img src="https://avatars.githubusercontent.com/u/219467812?s=72&u=7d9b726460d58a5067672dd6642ef64887d1b0aa&v=4" width="24" alt="Avatar of codexderelict"> codexderelict
+			</a><br/>
+			Omar M. (Codex Derelict)
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai, UAE</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
 			<a href="https://github.com/sunilnjc">
 				<img src="https://avatars.githubusercontent.com/u/51849589?s=72&v=4" width="24" alt="Avatar of sunilnjc"> sunilnjc
 			</a><br/>
@@ -339,7 +352,7 @@ There are `103 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/vaseemahmed01">
 				<img src="https://avatars.githubusercontent.com/u/6498283?s=72&u=dc26c977c229b63e5f83f315b934992602e93c47&v=4" width="24" alt="Avatar of vaseemahmed01"> vaseemahmed01
@@ -352,7 +365,7 @@ There are `103 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/NorsaG">
 				<img src="https://avatars.githubusercontent.com/u/2400257?s=72&v=4" width="24" alt="Avatar of NorsaG"> NorsaG
@@ -362,19 +375,6 @@ There are `103 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>Emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/codexderelict">
-				<img src="https://avatars.githubusercontent.com/u/219467812?s=72&u=7d9b726460d58a5067672dd6642ef64887d1b0aa&v=4" width="24" alt="Avatar of codexderelict"> codexderelict
-			</a><br/>
-			Omar M. (Codex Derelict)
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai, UAE</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -471,19 +471,6 @@ There are `103 users`  in United Arab Emirates. You need at least `0 followers` 
 	<tr>
 		<td>29</td>
 		<td>
-			<a href="https://github.com/EmiratesHub">
-				<img src="https://avatars.githubusercontent.com/u/1285237?s=72&v=4" width="24" alt="Avatar of EmiratesHub"> EmiratesHub
-			</a><br/>
-			EmiratesHub
-		</td>
-		<td>Hub.ae </td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
 			<a href="https://github.com/arbaazshaikh919">
 				<img src="https://avatars.githubusercontent.com/u/10862593?s=72&u=e26394032320eeb081481c4d809e1a05f740a37a&v=4" width="24" alt="Avatar of arbaazshaikh919"> arbaazshaikh919
 			</a><br/>
@@ -492,6 +479,19 @@ There are `103 users`  in United Arab Emirates. You need at least `0 followers` 
 		<td>@emirates </td>
 		<td><a href="https://twitter.com/arbaaz919">arbaaz919</a></td>
 		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/EmiratesHub">
+				<img src="https://avatars.githubusercontent.com/u/1285237?s=72&v=4" width="24" alt="Avatar of EmiratesHub"> EmiratesHub
+			</a><br/>
+			EmiratesHub
+		</td>
+		<td>Hub.ae </td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 	<tr>
